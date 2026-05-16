@@ -19,7 +19,7 @@ Leikurinn notar:
 # Spilareglur !!!
 Tveir leikmenn keppa hvor á móti öðrum. 
 Í hverri umferð kviknar handahófskennt á einum takka hjá báðum leikmönnum. Fyrsti leikmaðurinn sem ýtir á sinn upplýsta takka vinnur umferðina og fær að kasta teningnum með því að ýta á gula teningstakkann. 
-Teningururinn stoopar á 1, 2 eða 3 stigum. Fjöldi stiga ákveður hversu mikið reipið færist í átt frá sigurvegara umferðarinnar.
+Teningururinn stoppar á 1, 2 eða 3 stigum. Fjöldi stiga ákveður hversu mikið reipið færist í átt frá sigurvegara umferðarinnar.
 
 1 stig hefur 50% líkur á að fá
 2 stig hefur 30% líkur á að fá
