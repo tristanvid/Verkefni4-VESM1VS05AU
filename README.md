@@ -28,17 +28,16 @@ Teningururinn stoopar á 1, 2 eða 3 stigum. Fjöldi stiga ákveður hversu miki
 Leikurinn endar þegar annað liðið hefur ýtt reipinu alla leið yfir á hina hliðinna og allt LED stripið er orðið í þeirra lit.
 
 
-# Forritun 💻
-
-Leikurinn var forritaður í MicroPython.
+# Forritun 
+Leikurinn var forritaður í Thonny, MicroPython.
 * [`main.py`](main.py)
 
 ---
 
-# Hönnun ✏️
+# Hönnun
 Borðspilið var hannað í Inkscape fyrir laserskurð og Tinkercad fyrir 3D prent.
 
-# Myndir 📸
+# Myndir
 
 ## Pappírsfrumgerð
 ![Paper Prototype](images/prototype.jpg)
@@ -51,7 +50,7 @@ Borðspilið var hannað í Inkscape fyrir laserskurð og Tinkercad fyrir 3D pre
 
 ---
 
-# Myndband 🎥
+# Myndband
 [Myndband af leiknum](LINKUR-HÉR)
 
 ---
