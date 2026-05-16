@@ -41,14 +41,14 @@ Borðspilið var hannað í Inkscape fyrir laserskurð og Tinkercad fyrir 3D pre
 # Myndir
 
 ## Pappírsfrumgerð
-![Paper Prototype](frumgerd.jpg)
+![Paper Prototype](frumgerd.jpeg)
 
 ## Borðspilið
-![Board Game](bordspil.jpg)
+![Board Game](bordspil.jpeg)
 
 ## Lóðun og rafrás
-![Soldering1](rafras1.jpg)
-![Soldering2](rafras2.jpg)
+![Soldering1](rafras1.jpeg)
+![Soldering2](rafras2.jpeg)
 
 ---
 
