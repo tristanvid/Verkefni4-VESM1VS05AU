@@ -4,7 +4,6 @@ from random import randint
 from time import sleep_ms
 from I2C_LCD import I2cLcd
 
-#constants
 NUM_LEDS = 17
 NUM_RING = 35
 
@@ -13,19 +12,16 @@ RED = (35, 0, 0)
 YELLOW = (35, 35, 0)
 OFF = (0, 0, 0)
 
-#dice areas
 SCORE_1 = list(range(0, 18))
 SCORE_2 = list(range(18, 29))
 SCORE_3 = list(range(29, 35))
 
-#inputs
 takki_blue1 = Pin(10, Pin.IN, Pin.PULL_UP)
 takki_blue2 = Pin(16, Pin.IN, Pin.PULL_UP)
 takki_red1 = Pin(11, Pin.IN, Pin.PULL_UP)
 takki_red2 = Pin(8, Pin.IN, Pin.PULL_UP)
 takki_dice = Pin(13, Pin.IN, Pin.PULL_UP)
 
-#outputs
 led_blue1 = Pin(42, Pin.OUT)
 led_blue2 = Pin(21, Pin.OUT)
 led_red1 = Pin(47, Pin.OUT)
@@ -39,7 +35,6 @@ strip1 = NeoPixel(Pin(2), NUM_LEDS)
 strip2 = NeoPixel(Pin(4), NUM_LEDS)
 ring = NeoPixel(Pin(7), NUM_RING)
 
-#lcd
 lcd = None
 try:
     i2c = I2C(0, scl=Pin(5), sda=Pin(6))
@@ -49,11 +44,9 @@ try:
 except:
     lcd = None
 
-#game
 position = 8
 game_on = True
 
-#songs
 startup_song = [
     (659, 120),
     (659, 120),
@@ -352,7 +345,6 @@ while game_on:
         delay_time = randint(4, 6)
         sleep_ms(delay_time * 1000)
 
-#end
 winner_color = BLUE if position == 16 else RED
 
 victory_anim(winner_color)
