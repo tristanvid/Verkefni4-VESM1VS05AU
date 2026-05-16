@@ -53,7 +53,7 @@ Borðspilið var hannað í Inkscape fyrir laserskurð og Tinkercad fyrir 3D pre
 ---
 
 # Myndband
-[Myndband af leiknum](LINKUR-HÉR)
+[Myndband af leiknum](https://youtu.be/POvF4M37niM)
 
 ---
 
