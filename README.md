@@ -57,5 +57,5 @@ Borðspilið var hannað í Inkscape fyrir laserskurð og Tinkercad fyrir 3D pre
 ---
 
 # Hönnunarskrár 📁
-* [SVG skrá](files/Bordspil_reypitog.svg)
+* [SVG skrá](Bordspil_reypitog.svg)
 * [STL leikmunir](files/gamepieces.stl)
