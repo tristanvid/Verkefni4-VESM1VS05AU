@@ -27,6 +27,7 @@ Teningururinn stoopar á 1, 2 eða 3 stigum. Fjöldi stiga ákveður hversu miki
 
 Leikurinn endar þegar annað liðið hefur ýtt reipinu alla leið yfir á hina hliðinna og allt LED stripið er orðið í þeirra lit.
 
+---
 
 # Forritun 
 Leikurinn var forritaður í Thonny, MicroPython.
