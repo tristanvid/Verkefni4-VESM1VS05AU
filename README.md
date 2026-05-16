@@ -41,13 +41,13 @@ Borðspilið var hannað í Inkscape fyrir laserskurð og Tinkercad fyrir 3D pre
 # Myndir
 
 ## Pappírsfrumgerð
-![Paper Prototype](images/prototype.jpg)
+![Paper Prototype](prototype.jpg)
 
 ## Borðspilið
-![Board Game](images/board.jpg)
+![Board Game](board.jpg)
 
 ## Lóðun og rafrás
-![Soldering](images/soldering.jpg)
+![Soldering](soldering.jpg)
 
 ---
 
@@ -58,4 +58,4 @@ Borðspilið var hannað í Inkscape fyrir laserskurð og Tinkercad fyrir 3D pre
 
 # Hönnunarskrár 📁
 * [SVG skrá](Bordspil_reypitog.svg)
-* [STL leikmunir](files/gamepieces.stl)
+* [STL leikmunir](tunnur.stl)
