@@ -57,6 +57,7 @@ Borðspilið var hannað í Inkscape fyrir laserskurð og Tinkercad fyrir 3D pre
 
 ---
 
-# Hönnunarskrár 📁
+# Hönnunarskrár
 * [SVG skrá](Bordspil_reypitog.svg)
 * [STL leikmunir](tunnur.stl)
+* (Ekki okkar 3d hönnun en við sóttum hann af netinu, royalty free)
